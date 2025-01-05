@@ -1,21 +1,27 @@
 {
   "files": {
-    "main.css": "/The_Artistic_Saksham/static/css/main.4ef2e81d.css",
-    "main.js": "/The_Artistic_Saksham/static/js/main.c5c8832b.js",
+    "main.css": "/The_Artistic_Saksham/static/css/main.fe93c225.css",
+    "main.js": "/The_Artistic_Saksham/static/js/main.19a208fd.js",
     "static/js/488.e75445ad.chunk.js": "/The_Artistic_Saksham/static/js/488.e75445ad.chunk.js",
     "static/media/artist_img.png": "/The_Artistic_Saksham/static/media/artist_img.35e2b6a88076691a1cc0.png",
-    "static/media/art4.png": "/The_Artistic_Saksham/static/media/art4.e3d606cdf4cc3830fe26.png",
+    "static/media/art10.png": "/The_Artistic_Saksham/static/media/art10.4aef845b5fde3fb89c7b.png",
+    "static/media/art9.png": "/The_Artistic_Saksham/static/media/art9.76f2b30457a12c8f0d41.png",
+    "static/media/art5.png": "/The_Artistic_Saksham/static/media/art5.cce817c8f8f64a7fbf10.png",
+    "static/media/art4.png": "/The_Artistic_Saksham/static/media/art4.6de8014091c7f4c5fe65.png",
+    "static/media/art3.png": "/The_Artistic_Saksham/static/media/art3.6ae6a8d72080193543c7.png",
+    "static/media/art8.png": "/The_Artistic_Saksham/static/media/art8.f0488f43cab3982db16e.png",
     "static/media/art1.png": "/The_Artistic_Saksham/static/media/art1.c38e23822710de806756.png",
+    "static/media/art6.png": "/The_Artistic_Saksham/static/media/art6.2118d40d6556c18a2ce5.png",
+    "static/media/art7.png": "/The_Artistic_Saksham/static/media/art7.3a7d3fe4fec95d71b844.png",
     "static/media/art2.png": "/The_Artistic_Saksham/static/media/art2.e5823c969dbf6bf7dce6.png",
-    "static/media/art3.png": "/The_Artistic_Saksham/static/media/art3.2968f0b4c21e8338f6b0.png",
-    "static/media/saksham_Bhaiya_photo.png": "/The_Artistic_Saksham/static/media/saksham_Bhaiya_photo.1b5e71ea3a6f37fa8ea0.png",
+    "static/media/saksham_bhaiya_photo.png": "/The_Artistic_Saksham/static/media/saksham_bhaiya_photo.dd46408fc3ec75624aa4.png",
     "index.html": "/The_Artistic_Saksham/index.html",
-    "main.4ef2e81d.css.map": "/The_Artistic_Saksham/static/css/main.4ef2e81d.css.map",
-    "main.c5c8832b.js.map": "/The_Artistic_Saksham/static/js/main.c5c8832b.js.map",
+    "main.fe93c225.css.map": "/The_Artistic_Saksham/static/css/main.fe93c225.css.map",
+    "main.19a208fd.js.map": "/The_Artistic_Saksham/static/js/main.19a208fd.js.map",
     "488.e75445ad.chunk.js.map": "/The_Artistic_Saksham/static/js/488.e75445ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ef2e81d.css",
-    "static/js/main.c5c8832b.js"
+    "static/css/main.fe93c225.css",
+    "static/js/main.19a208fd.js"
   ]
 }
